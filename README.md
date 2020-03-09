@@ -18,3 +18,6 @@ This project is created in Python with Flask microframework, JS, and HTML/CSS. Y
   > (YourVirtualEnvironment)C:\Capstone> python run.py
 4. You will see the flask app is running now. Open your browser, and go to the URL displayed in your command prompt or
   > localhost:5000
+5. Before running program set variables.
+  - $ set EMAIL_USER=mgacabstone.crb@gmail.com
+  - $ set EMAIL_PASSWORD=hcezrgifswvsviyc
